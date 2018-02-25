@@ -7,5 +7,6 @@ orange
 Green
 Purple
 Unicorn
+Indigo
 the colors of rainbow
 the unicorn
